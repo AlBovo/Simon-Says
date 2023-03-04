@@ -7,4 +7,4 @@ Gli ultimi pin digitali (10, 11, 12, 13) sono riservati all'input dai bottoni me
 Le combinazioni sono generate "randomicamente" con la funzione <code>random()</code> di arduino.
 <br>
 Questo è la struttura schematizzata finale (board + bread board):<br>
-![alt text](https://github.com/AlBovo/Simon-Says/main/image.jpg?raw=true)
+![alt text](https://github.com/AlBovo/Simon-Says/main/image.png?raw=true)
